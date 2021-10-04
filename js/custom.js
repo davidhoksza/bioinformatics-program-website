@@ -1,5 +1,4 @@
 function ellipsis (id) {
-    console.log(id)
 
     if (id == "what-to-study")
         text = "Je pro vás připraven bionformatický studijní program skládající se z bakalářského a navazujícího magisterského studia. Program vás provede dynamicky se vyvíjející oblastí bioinformatiky od základů biologie, informatiky a matematiky, přes analýzu struktury a funkce makromolekul, strojové učení a modelování systémů až po pokročilé oblasti bioinformatiky jako jsou metody sekvenování DNA, strukutrní bioinformatika nebo počítačový návrh léčiv. Naučíte se jak práci v laboratoři tak vývoji softwarových systému. Studium v bakalářském oboru je zajišťováno z poloviny na PřF a z poloviny na MFF UK a skladba předmětů tomu také odpovídá. Nejde tedy o výuku bioinformatiky z hlediska čistě informatického nebo biologického, ale o opravdovou synergii. Na výuce magisterského oboru se pak formou přednášek podílejí odborníci z Evropské molekulárně biologické laboratoře (EMBL) v Heidelbergu a Max Planck Institutu (MPI) pro molekulární buněčnou biologii a genetiku v Drážďanech.";
